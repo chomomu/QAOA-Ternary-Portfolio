@@ -1,0 +1,386 @@
+mixer,p,eta,P
+standard,1,0.0,0.0102
+standard,1,0.001,0.0085
+standard,1,0.002,0.0068
+standard,1,0.003,0.0073
+standard,1,0.004,0.0071
+standard,1,0.005,0.0081
+standard,1,0.006,0.0068
+standard,1,0.007,0.0066
+standard,1,0.008,0.0054
+standard,1,0.009,0.0051
+standard,1,0.01,0.0056
+standard,2,0.0,0.0143
+standard,2,0.001,0.0155
+standard,2,0.002,0.0103
+standard,2,0.003,0.0108
+standard,2,0.004,0.0105
+standard,2,0.005,0.0085
+standard,2,0.006,0.0084
+standard,2,0.007,0.0082
+standard,2,0.008,0.0064
+standard,2,0.009,0.0074
+standard,2,0.01,0.0072
+standard,3,0.0,0.0308
+standard,3,0.001,0.0269
+standard,3,0.002,0.0204
+standard,3,0.003,0.021
+standard,3,0.004,0.0169
+standard,3,0.005,0.0136
+standard,3,0.006,0.0118
+standard,3,0.007,0.0118
+standard,3,0.008,0.0101
+standard,3,0.009,0.0091
+standard,3,0.01,0.008
+standard,4,0.0,0.0751
+standard,4,0.001,0.0547
+standard,4,0.002,0.0401
+standard,4,0.003,0.0327
+standard,4,0.004,0.0247
+standard,4,0.005,0.0208
+standard,4,0.006,0.0183
+standard,4,0.007,0.0137
+standard,4,0.008,0.0132
+standard,4,0.009,0.0086
+standard,4,0.01,0.009
+standard,5,0.0,0.1558
+standard,5,0.001,0.1038
+standard,5,0.002,0.0711
+standard,5,0.003,0.0494
+standard,5,0.004,0.0354
+standard,5,0.005,0.0227
+standard,5,0.006,0.017
+standard,5,0.007,0.0132
+standard,5,0.008,0.0087
+standard,5,0.009,0.0086
+standard,5,0.01,0.0069
+standard,6,0.0,0.2177
+standard,6,0.001,0.1342
+standard,6,0.002,0.0767
+standard,6,0.003,0.0474
+standard,6,0.004,0.0322
+standard,6,0.005,0.0226
+standard,6,0.006,0.0126
+standard,6,0.007,0.0109
+standard,6,0.008,0.0085
+standard,6,0.009,0.0063
+standard,6,0.01,0.0049
+standard,7,0.0,0.2238
+standard,7,0.001,0.1284
+standard,7,0.002,0.0658
+standard,7,0.003,0.0389
+standard,7,0.004,0.0232
+standard,7,0.005,0.0151
+standard,7,0.006,0.0116
+standard,7,0.007,0.0089
+standard,7,0.008,0.0063
+standard,7,0.009,0.0057
+standard,7,0.01,0.0038
+XY ring,1,0.0,0.1224
+XY ring,1,0.001,0.073
+XY ring,1,0.002,0.0485
+XY ring,1,0.003,0.033
+XY ring,1,0.004,0.022
+XY ring,1,0.005,0.0149
+XY ring,1,0.006,0.0104
+XY ring,1,0.007,0.0082
+XY ring,1,0.008,0.0056
+XY ring,1,0.009,0.0037
+XY ring,1,0.01,0.0038
+XY ring,2,0.0,0.2254
+XY ring,2,0.001,0.1234
+XY ring,2,0.002,0.0688
+XY ring,2,0.003,0.0385
+XY ring,2,0.004,0.0206
+XY ring,2,0.005,0.0153
+XY ring,2,0.006,0.0094
+XY ring,2,0.007,0.0065
+XY ring,2,0.008,0.0049
+XY ring,2,0.009,0.0045
+XY ring,2,0.01,0.0022
+XY ring,3,0.0,0.3545
+XY ring,3,0.001,0.1603
+XY ring,3,0.002,0.0702
+XY ring,3,0.003,0.0374
+XY ring,3,0.004,0.0213
+XY ring,3,0.005,0.0117
+XY ring,3,0.006,0.0079
+XY ring,3,0.007,0.0043
+XY ring,3,0.008,0.0035
+XY ring,3,0.009,0.0022
+XY ring,3,0.01,0.0024
+XY ring,4,0.0,0.5031
+XY ring,4,0.001,0.1997
+XY ring,4,0.002,0.0769
+XY ring,4,0.003,0.0355
+XY ring,4,0.004,0.0168
+XY ring,4,0.005,0.0087
+XY ring,4,0.006,0.0055
+XY ring,4,0.007,0.0039
+XY ring,4,0.008,0.0043
+XY ring,4,0.009,0.0029
+XY ring,4,0.01,0.0028
+XY ring,5,0.0,0.6038
+XY ring,5,0.001,0.1994
+XY ring,5,0.002,0.07
+XY ring,5,0.003,0.0265
+XY ring,5,0.004,0.0118
+XY ring,5,0.005,0.0069
+XY ring,5,0.006,0.0033
+XY ring,5,0.007,0.0028
+XY ring,5,0.008,0.0025
+XY ring,5,0.009,0.0019
+XY ring,5,0.01,0.0019
+XY ring,6,0.0,0.6686
+XY ring,6,0.001,0.1966
+XY ring,6,0.002,0.0539
+XY ring,6,0.003,0.0215
+XY ring,6,0.004,0.0088
+XY ring,6,0.005,0.0057
+XY ring,6,0.006,0.0034
+XY ring,6,0.007,0.0035
+XY ring,6,0.008,0.0027
+XY ring,6,0.009,0.0016
+XY ring,6,0.01,0.0029
+XY ring,7,0.0,0.7369
+XY ring,7,0.001,0.1835
+XY ring,7,0.002,0.048
+XY ring,7,0.003,0.0166
+XY ring,7,0.004,0.0095
+XY ring,7,0.005,0.005
+XY ring,7,0.006,0.0033
+XY ring,7,0.007,0.0018
+XY ring,7,0.008,0.0035
+XY ring,7,0.009,0.0024
+XY ring,7,0.01,0.0021
+XY ring parity,1,0.0,0.1271
+XY ring parity,1,0.001,0.0765
+XY ring parity,1,0.002,0.047
+XY ring parity,1,0.003,0.0278
+XY ring parity,1,0.004,0.0225
+XY ring parity,1,0.005,0.0128
+XY ring parity,1,0.006,0.0113
+XY ring parity,1,0.007,0.0069
+XY ring parity,1,0.008,0.0057
+XY ring parity,1,0.009,0.0048
+XY ring parity,1,0.01,0.0039
+XY ring parity,2,0.0,0.2709
+XY ring parity,2,0.001,0.1459
+XY ring parity,2,0.002,0.077
+XY ring parity,2,0.003,0.0421
+XY ring parity,2,0.004,0.0253
+XY ring parity,2,0.005,0.0152
+XY ring parity,2,0.006,0.0092
+XY ring parity,2,0.007,0.0091
+XY ring parity,2,0.008,0.0047
+XY ring parity,2,0.009,0.0034
+XY ring parity,2,0.01,0.0031
+XY ring parity,3,0.0,0.4352
+XY ring parity,3,0.001,0.1875
+XY ring parity,3,0.002,0.0846
+XY ring parity,3,0.003,0.0476
+XY ring parity,3,0.004,0.0214
+XY ring parity,3,0.005,0.0134
+XY ring parity,3,0.006,0.0073
+XY ring parity,3,0.007,0.0051
+XY ring parity,3,0.008,0.0037
+XY ring parity,3,0.009,0.0022
+XY ring parity,3,0.01,0.0033
+XY ring parity,4,0.0,0.5256
+XY ring parity,4,0.001,0.2083
+XY ring parity,4,0.002,0.079
+XY ring parity,4,0.003,0.0349
+XY ring parity,4,0.004,0.0155
+XY ring parity,4,0.005,0.0095
+XY ring parity,4,0.006,0.0052
+XY ring parity,4,0.007,0.0042
+XY ring parity,4,0.008,0.0031
+XY ring parity,4,0.009,0.0028
+XY ring parity,4,0.01,0.0024
+XY ring parity,5,0.0,0.6047
+XY ring parity,5,0.001,0.1948
+XY ring parity,5,0.002,0.0706
+XY ring parity,5,0.003,0.03
+XY ring parity,5,0.004,0.014
+XY ring parity,5,0.005,0.0059
+XY ring parity,5,0.006,0.0034
+XY ring parity,5,0.007,0.0027
+XY ring parity,5,0.008,0.0027
+XY ring parity,5,0.009,0.0029
+XY ring parity,5,0.01,0.0025
+XY ring parity,6,0.0,0.6116
+XY ring parity,6,0.001,0.1681
+XY ring parity,6,0.002,0.0531
+XY ring parity,6,0.003,0.0197
+XY ring parity,6,0.004,0.0075
+XY ring parity,6,0.005,0.0051
+XY ring parity,6,0.006,0.0042
+XY ring parity,6,0.007,0.0029
+XY ring parity,6,0.008,0.0022
+XY ring parity,6,0.009,0.0025
+XY ring parity,6,0.01,0.0017
+XY ring parity,7,0.0,0.6214
+XY ring parity,7,0.001,0.1462
+XY ring parity,7,0.002,0.0439
+XY ring parity,7,0.003,0.0154
+XY ring parity,7,0.004,0.0073
+XY ring parity,7,0.005,0.0043
+XY ring parity,7,0.006,0.0044
+XY ring parity,7,0.007,0.0024
+XY ring parity,7,0.008,0.0025
+XY ring parity,7,0.009,0.0025
+XY ring parity,7,0.01,0.0013
+XY full,1,0.0,0.1636
+XY full,1,0.001,0.0934
+XY full,1,0.002,0.0645
+XY full,1,0.003,0.0347
+XY full,1,0.004,0.0242
+XY full,1,0.005,0.0191
+XY full,1,0.006,0.0108
+XY full,1,0.007,0.0078
+XY full,1,0.008,0.0055
+XY full,1,0.009,0.0052
+XY full,1,0.01,0.0028
+XY full,2,0.0,0.2261
+XY full,2,0.001,0.1225
+XY full,2,0.002,0.0631
+XY full,2,0.003,0.037
+XY full,2,0.004,0.02
+XY full,2,0.005,0.013
+XY full,2,0.006,0.0099
+XY full,2,0.007,0.007
+XY full,2,0.008,0.0049
+XY full,2,0.009,0.0029
+XY full,2,0.01,0.0025
+XY full,3,0.0,0.4057
+XY full,3,0.001,0.1747
+XY full,3,0.002,0.0772
+XY full,3,0.003,0.0354
+XY full,3,0.004,0.0168
+XY full,3,0.005,0.0092
+XY full,3,0.006,0.0071
+XY full,3,0.007,0.004
+XY full,3,0.008,0.0033
+XY full,3,0.009,0.0035
+XY full,3,0.01,0.004
+XY full,4,0.0,0.4968
+XY full,4,0.001,0.1765
+XY full,4,0.002,0.0628
+XY full,4,0.003,0.0292
+XY full,4,0.004,0.012
+XY full,4,0.005,0.0068
+XY full,4,0.006,0.0042
+XY full,4,0.007,0.0033
+XY full,4,0.008,0.0032
+XY full,4,0.009,0.0027
+XY full,4,0.01,0.0023
+XY full,5,0.0,0.5571
+XY full,5,0.001,0.1656
+XY full,5,0.002,0.0523
+XY full,5,0.003,0.0183
+XY full,5,0.004,0.0079
+XY full,5,0.005,0.0061
+XY full,5,0.006,0.0041
+XY full,5,0.007,0.0027
+XY full,5,0.008,0.0027
+XY full,5,0.009,0.0022
+XY full,5,0.01,0.0021
+XY full,6,0.0,0.601
+XY full,6,0.001,0.1477
+XY full,6,0.002,0.0412
+XY full,6,0.003,0.0126
+XY full,6,0.004,0.0063
+XY full,6,0.005,0.004
+XY full,6,0.006,0.0029
+XY full,6,0.007,0.0026
+XY full,6,0.008,0.0025
+XY full,6,0.009,0.0015
+XY full,6,0.01,0.0023
+XY full,7,0.0,0.7021
+XY full,7,0.001,0.1447
+XY full,7,0.002,0.0348
+XY full,7,0.003,0.0119
+XY full,7,0.004,0.0055
+XY full,7,0.005,0.0041
+XY full,7,0.006,0.0022
+XY full,7,0.007,0.0025
+XY full,7,0.008,0.002
+XY full,7,0.009,0.0009
+XY full,7,0.01,0.0023
+QAMPA,1,0.0,0.1579
+QAMPA,1,0.001,0.0824
+QAMPA,1,0.002,0.0538
+QAMPA,1,0.003,0.0304
+QAMPA,1,0.004,0.0182
+QAMPA,1,0.005,0.011
+QAMPA,1,0.006,0.0079
+QAMPA,1,0.007,0.0063
+QAMPA,1,0.008,0.0044
+QAMPA,1,0.009,0.0035
+QAMPA,1,0.01,0.0025
+QAMPA,2,0.0,0.2402
+QAMPA,2,0.001,0.1049
+QAMPA,2,0.002,0.0499
+QAMPA,2,0.003,0.0248
+QAMPA,2,0.004,0.0136
+QAMPA,2,0.005,0.007
+QAMPA,2,0.006,0.0051
+QAMPA,2,0.007,0.0044
+QAMPA,2,0.008,0.003
+QAMPA,2,0.009,0.0034
+QAMPA,2,0.01,0.0038
+QAMPA,3,0.0,0.4463
+QAMPA,3,0.001,0.1477
+QAMPA,3,0.002,0.0544
+QAMPA,3,0.003,0.0201
+QAMPA,3,0.004,0.0114
+QAMPA,3,0.005,0.0075
+QAMPA,3,0.006,0.0027
+QAMPA,3,0.007,0.0028
+QAMPA,3,0.008,0.0024
+QAMPA,3,0.009,0.0016
+QAMPA,3,0.01,0.002
+QAMPA,4,0.0,0.5031
+QAMPA,4,0.001,0.1278
+QAMPA,4,0.002,0.0351
+QAMPA,4,0.003,0.0121
+QAMPA,4,0.004,0.006
+QAMPA,4,0.005,0.0032
+QAMPA,4,0.006,0.0027
+QAMPA,4,0.007,0.0024
+QAMPA,4,0.008,0.0018
+QAMPA,4,0.009,0.0016
+QAMPA,4,0.01,0.0025
+QAMPA,5,0.0,0.5609
+QAMPA,5,0.001,0.1139
+QAMPA,5,0.002,0.0284
+QAMPA,5,0.003,0.0078
+QAMPA,5,0.004,0.004
+QAMPA,5,0.005,0.0039
+QAMPA,5,0.006,0.0014
+QAMPA,5,0.007,0.0017
+QAMPA,5,0.008,0.002
+QAMPA,5,0.009,0.0017
+QAMPA,5,0.01,0.0016
+QAMPA,6,0.0,0.6024
+QAMPA,6,0.001,0.0879
+QAMPA,6,0.002,0.0186
+QAMPA,6,0.003,0.0065
+QAMPA,6,0.004,0.0031
+QAMPA,6,0.005,0.0031
+QAMPA,6,0.006,0.0023
+QAMPA,6,0.007,0.0014
+QAMPA,6,0.008,0.0022
+QAMPA,6,0.009,0.0025
+QAMPA,6,0.01,0.0027
+QAMPA,7,0.0,0.7071
+QAMPA,7,0.001,0.0891
+QAMPA,7,0.002,0.0156
+QAMPA,7,0.003,0.0061
+QAMPA,7,0.004,0.0034
+QAMPA,7,0.005,0.002
+QAMPA,7,0.006,0.0022
+QAMPA,7,0.007,0.0027
+QAMPA,7,0.008,0.0022
+QAMPA,7,0.009,0.0024
+QAMPA,7,0.01,0.0025
